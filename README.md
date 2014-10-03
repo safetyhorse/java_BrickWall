@@ -1,4 +1,4 @@
 java_BrickWall
 ==============
 
-Java class - draws a brick wall
+Java class - draw a brick wall in a frame.
